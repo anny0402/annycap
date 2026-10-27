@@ -1,0 +1,15 @@
+export const INDIAN_LANGUAGES = [
+  { code: 'hi', name: 'Hindi', native: 'हिन्दी', sample: 'ऑटो-कैप्शन अब हर भारतीय भाषा में' },
+  { code: 'hinglish', name: 'Hinglish', native: 'Hinglish (Code-Mixed)', sample: 'Basically yeh feature try karo, it works!' },
+  { code: 'bn', name: 'Bengali', native: 'বাংলা', sample: 'প্রতিটি শব্দের সঠিক টাইমিং সহ ক্যাপশন' },
+  { code: 'gu', name: 'Gujarati', native: 'ગુજરાતી', sample: 'દરેક શબ્દ માટે ચોક્કસ કેપ્શન' },
+  { code: 'kn', name: 'Kannada', native: 'ಕನ್ನಡ', sample: 'ಪ್ರತಿಯೊಂದು ಪದಕ್ಕೂ ನಿಖರವಾದ ಉಪಶೀರ್ಷಿಕೆಗಳು' },
+  { code: 'ml', name: 'Malayalam', native: 'മലയാളം', sample: 'കൃത്യമായ സമയക്രമമുള്ള അടിക്കുറിപ്പുകൾ' },
+  { code: 'mr', name: 'Marathi', native: 'मराठी', sample: 'प्रत्येक शब्दासाठी अचूक कॅप्शन' },
+  { code: 'or', name: 'Odia', native: 'ଓଡ଼ିଆ', sample: 'ପ୍ରତ୍ୟେକ ଶବ୍ଦ ପାଇଁ ସଠିକ୍ କ୍ୟାପସନ୍' },
+  { code: 'pa', name: 'Punjabi', native: 'ਪੰਜਾਬੀ', sample: 'ਹਰ ਸ਼ਬਦ ਲਈ ਬਿਲਕੁਲ ਸਹੀ ਸੁਰਖੀਆਂ' },
+  { code: 'ta', name: 'Tamil', native: 'தமிழ்', sample: 'ஒவ்வொரு வார்த்தைக்கும் துல்லியமான தலைப்புகள்' },
+  { code: 'te', name: 'Telugu', native: 'తెలుగు', sample: 'ప్రతి పదానికి ఖచ్చితమైన ఉపశీర్షికలు' },
+  { code: 'ur', name: 'Urdu', native: 'اردو', sample: 'ہر لفظ کے لیے درست کیپشن' },
+  { code: 'en', name: 'Indian English', native: 'English (IN)', sample: 'Clean word-by-word highlighted captions' },
+];
